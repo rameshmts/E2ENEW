@@ -14,8 +14,6 @@ public class FacBkTest extends base {
 	{
 		
 		log.debug("Application is logged in");
-		log.debug("Application is logged in");
-		log.debug("Application is logged in");
 		log.info("Application is naviagaeted");
 		log.error("Element is not visible");
 		log.fatal("Application is failed");
