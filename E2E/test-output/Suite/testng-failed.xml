@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utilities.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="FramewrkScratch.E2E.newTest">
+        <methods>
+          <include name="basepagenavi" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- FramewrkScratch.E2E.newTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

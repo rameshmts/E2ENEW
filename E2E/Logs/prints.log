@@ -1,0 +1,59 @@
+12:26:56.833 [main] DEBUG Facebook.FacBkTest - Application is logged in
+12:26:56.837 [main] INFO  Facebook.FacBkTest - Application is naviagaeted
+12:26:56.838 [main] ERROR Facebook.FacBkTest - Element is not visible
+12:26:56.838 [main] FATAL Facebook.FacBkTest - Application is failed
+13:33:28.084 [main] DEBUG Facebook.FacBkTest - Application is logged in
+13:33:28.088 [main] INFO  Facebook.FacBkTest - Application is naviagaeted
+13:33:28.088 [main] ERROR Facebook.FacBkTest - Element is not visible
+13:33:28.089 [main] FATAL Facebook.FacBkTest - Application is failed
+13:33:50.455 [main] DEBUG Facebook.FacBkTest - Application is logged in
+13:33:50.460 [main] INFO  Facebook.FacBkTest - Application is naviagaeted
+13:33:50.460 [main] ERROR Facebook.FacBkTest - Element is not visible
+13:33:50.460 [main] FATAL Facebook.FacBkTest - Application is failed
+13:35:20.250 [main] INFO  Facebook.FacBkTest - User name is entered
+13:35:20.365 [main] INFO  Facebook.FacBkTest - Password is entered
+13:35:21.115 [main] INFO  Facebook.FacBkTest - Submit button is clicked
+13:35:34.156 [main] INFO  Facebook.FacBkTest - User name is entered
+13:35:34.269 [main] INFO  Facebook.FacBkTest - Password is entered
+13:35:36.092 [main] INFO  Facebook.FacBkTest - Submit button is clicked
+06 Jul 2021 13:39:59,012 [main] DEBUG Facebook.FacBkTest - Application is logged in
+06 Jul 2021 13:39:59,016 [main] INFO  Facebook.FacBkTest - Application is naviagaeted
+06 Jul 2021 13:39:59,016 [main] ERROR Facebook.FacBkTest - Element is not visible
+06 Jul 2021 13:39:59,016 [main] FATAL Facebook.FacBkTest - Application is failed
+06 Jul 2021 13:54:24,323 [main] INFO  utilities.base - User name is entered
+06 Jul 2021 13:54:24,486 [main] INFO  utilities.base - Password is entered
+06 Jul 2021 13:54:25,201 [main] INFO  utilities.base - Submit button is clicked
+06 Jul 2021 13:54:36,546 [main] INFO  utilities.base - User name is entered
+06 Jul 2021 13:54:36,669 [main] INFO  utilities.base - Password is entered
+06 Jul 2021 13:54:37,641 [main] INFO  utilities.base - Submit button is clicked
+06 Jul 2021 14:03:38,362 [main] INFO  utilities.base - User name is entered
+06 Jul 2021 14:03:38,514 [main] INFO  utilities.base - Password is entered
+06 Jul 2021 14:03:39,142 [main] INFO  utilities.base - Submit button is clicked
+07 Jul 2021 10:49:57,414 [main] INFO  utilities.base - User name is entered
+07 Jul 2021 10:49:57,564 [main] INFO  utilities.base - Password is entered
+07 Jul 2021 10:49:57,954 [main] INFO  utilities.base - Submit button is clicked
+07 Jul 2021 10:51:17,251 [main] INFO  utilities.base - User name is entered
+07 Jul 2021 10:51:17,406 [main] INFO  utilities.base - Password is entered
+07 Jul 2021 10:51:17,880 [main] INFO  utilities.base - Submit button is clicked
+07 Jul 2021 10:51:29,297 [main] INFO  utilities.base - User name is entered
+07 Jul 2021 10:51:29,406 [main] INFO  utilities.base - Password is entered
+07 Jul 2021 10:51:29,871 [main] INFO  utilities.base - Submit button is clicked
+07 Jul 2021 11:10:17,245 [main] INFO  utilities.base - User name is entered
+07 Jul 2021 11:10:17,360 [main] INFO  utilities.base - Password is entered
+07 Jul 2021 11:10:17,902 [main] INFO  utilities.base - Submit button is clicked
+07 Jul 2021 11:10:30,641 [main] INFO  utilities.base - User name is entered
+07 Jul 2021 11:10:30,743 [main] INFO  utilities.base - Password is entered
+07 Jul 2021 11:10:31,299 [main] INFO  utilities.base - Submit button is clicked
+08 Jul 2021 10:13:39,196 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:13:54,250 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:14:08,992 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:16:26,382 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:16:34,646 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:16:41,515 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:16:50,460 [main] INFO  utilities.Listeners - *** Test Suite basepagenavi ending ***
+08 Jul 2021 10:21:07,637 [main] INFO  utilities.base - User name is entered
+08 Jul 2021 10:21:07,812 [main] INFO  utilities.base - Password is entered
+08 Jul 2021 10:21:08,405 [main] INFO  utilities.base - Submit button is clicked
+08 Jul 2021 10:21:27,241 [main] INFO  utilities.base - User name is entered
+08 Jul 2021 10:21:27,340 [main] INFO  utilities.base - Password is entered
+08 Jul 2021 10:21:27,768 [main] INFO  utilities.base - Submit button is clicked
